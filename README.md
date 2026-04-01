@@ -1,3 +1,9 @@
+# 💫 About Me:
+Hi, I'm Mohamed Salah. I am a Software Engineering student at Concordia University with a strong focus on Cloud Architecture, Platform Engineering, and DevSecOps. I am currently preparing to join the Developer Experience (DevEx) team at CAE as an incoming DevOps and Cloud Intern, where I will help engineer scalable platforms supporting over 2,000 developers globally. My core mission is to bridge the gap between software development and robust infrastructure, enabling engineering teams to ship secure code faster and more reliably.
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-salah-cloudev) 
+
 # 💻 Tech Stack:
 
 ### ☁️ Cloud & Infrastructure
